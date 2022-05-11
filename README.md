@@ -5,7 +5,7 @@ ABox是一款免费的免越狱IPA签名的工具，适用于iOS12+系统，具�
 
 
 ## 使用说明
-* 需自行导入ipa、证书、描述文件才可以签名
+* 需自行导入ipa（[这里分享一些脱壳的ipa](https://github.com/SWING1993/DumpDecrypted-IPAs)）、证书、描述文件才可以签名
 * [网站](https://abox.swing1993.cn/)
 * [使用教程](https://swing1993.cn/aboxshi-yong-jiao-cheng/)
 * [ipa下载地址](https://github.com/SWING1993/ABox_iOS/releases)
