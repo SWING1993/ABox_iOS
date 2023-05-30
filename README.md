@@ -3,6 +3,7 @@ ABox是一款免费的免越狱IPA签名的工具，适用于iOS12+系统，具�
  
 ![](https://img.shields.io/badge/platform-iOS12+-orange.svg) 
 
+
 ## 功能
 * 签名、解压、打包IPA文件
 * 查看p12证书和mobileprovision的信息
