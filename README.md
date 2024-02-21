@@ -9,10 +9,9 @@ ABox是一款免费的免越狱IPA签名的工具，适用于iOS12+系统，具�
 * 签名、解压、打包IPA文件
 * 查看p12证书和mobileprovision的信息
 * 修改、注入、删除MachO的依赖项（动态库）
-* 支持classdump导出MachO文件（ipa、dylib、framework）中的.h头文件
+* 支持classdump导出MachO文件中的.h头文件
 * 解压、压缩Zip
 * 解析网页中的ipa安装地址，并支持下载ipa
-* 签名安装一些常用的开源应用
 
 ## 使用说明
 * 需自行导入ipa、证书、描述文件才可以签名
